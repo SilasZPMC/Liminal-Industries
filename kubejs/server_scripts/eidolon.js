@@ -229,6 +229,15 @@ ServerEvents.recipes(event => {
 
   brazier_summoning(
     "eidolon:lesser_soul_gem", 
+		"minecraft:stick", 
+		"minecraft:glowstone_dust",
+    "eidolon:lesser_soul_gem",
+
+    "minecraft:witch"	
+)
+
+  brazier_summoning(
+    "eidolon:lesser_soul_gem", 
 		"minecraft:leather", 
 		"minecraft:grass",
     "eidolon:lesser_soul_gem",
@@ -242,7 +251,7 @@ ServerEvents.recipes(event => {
 		"minecraft:soul_sand",
     "eidolon:lesser_soul_gem",
 
-    "minecraft:witch"	
+    "minecraft:ghast"	
 )
 
   brazier_summoning(
