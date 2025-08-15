@@ -242,7 +242,7 @@ ServerEvents.recipes(event => {
 		"minecraft:soul_sand",
     "eidolon:lesser_soul_gem",
 
-    "minecraft:ghast"	
+    "minecraft:witch"	
 )
 
   brazier_summoning(
